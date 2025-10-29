@@ -6,7 +6,10 @@ This project was developed and tested in MATLAB R2023b using the following toolb
   - Used for color space conversion, edge detection, and histogram analysis.
 - **Statistics and Machine Learning Toolbox**
   - Used for distance metric computations and performance analysis.
-- **Core MATLAB Functions**
-  - Used for data handling, matrix operations, and plotting.
+- **Additional Toolboxes:**
+  - Computer Vision Toolbox
+  - Machine Learning ToolBox
+
+
 
 No third-party dependencies are required. All scripts can be executed directly within MATLAB once the dataset is configured.
