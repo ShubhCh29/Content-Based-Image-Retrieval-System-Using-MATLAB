@@ -19,8 +19,8 @@ color (HSV histogram), texture (GLCM), and shape (edge-based) descriptors. The W
 WANG Dataset: [https://wang.ist.psu.edu/docs/related/](https://wang.ist.psu.edu/docs/related/)
 
 ## Authors
-Shubh Chaudhary 
-Yuval Doshi 
+Shubh Chaudhary, 
+Yuval Doshi and 
 Gargi G. Maloo 
 
 
