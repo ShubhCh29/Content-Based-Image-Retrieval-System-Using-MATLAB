@@ -20,8 +20,9 @@ WANG Dataset: [https://wang.ist.psu.edu/docs/related/](https://wang.ist.psu.edu/
 
 ## Authors
 Shubh Chaudhary, 
-Yuval Doshi and 
-Gargi G. Maloo 
+Yuval Doshi,
+Gargi G. Maloo and
+Shashank Payal
 
 
 ---
