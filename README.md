@@ -17,8 +17,8 @@ color (HSV histogram), texture (GLCM, LBP), and shape (edge-based) descriptors (
 - Deep Learning Integration using ResNet-50 (Deep CNN)
 
 ## Dataset
-WANG Dataset: [https://wang.ist.psu.edu/docs/related/](https://wang.ist.psu.edu/docs/related/)
-COREL-10K Dataset: [https://www.kaggle.com/datasets/michelwilson/corel10k](https://www.kaggle.com/datasets/michelwilson/corel10k)
+- WANG Dataset: [https://wang.ist.psu.edu/docs/related/](https://wang.ist.psu.edu/docs/related/)
+- COREL-10K Dataset: [https://www.kaggle.com/datasets/michelwilson/corel10k](https://www.kaggle.com/datasets/michelwilson/corel10k)
 
 ## Authors
 Shubh Chaudhary, 
