@@ -8,7 +8,8 @@ This project was developed and tested in MATLAB R2023b using the following toolb
   - Used for distance metric computations and performance analysis.
 - **Additional Toolboxes:**
   - Computer Vision Toolbox
-  - Machine Learning ToolBox
+  - Machine Learning Toolbox
+  - Deep Learning Toolbox
 
 
 
