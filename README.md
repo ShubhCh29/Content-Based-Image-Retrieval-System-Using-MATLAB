@@ -6,7 +6,7 @@ color (HSV histogram), texture (GLCM, LBP), and shape (edge-based) descriptors (
 
 ## How to Run
 1. Place query image in `query/` folder.
-2. Run `main.m` in MATLAB.
+2. Run `cbir_engine.m` in MATLAB.
 3. View top matching results and accuracy metrics.
 
 ## Features
