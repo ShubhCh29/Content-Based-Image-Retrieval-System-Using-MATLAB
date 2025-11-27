@@ -10,11 +10,11 @@ color (HSV histogram), texture (GLCM, LBP), and shape (edge-based) descriptors (
 3. View top matching results and accuracy metrics.
 
 ## Features
-- HSV color histogram for color similarity
-- GLCM for texture representation
-- Edge-based descriptors for shape analysis
-- Weighted similarity computation for hybrid retrieval
-- Deep Learning Integration using ResNet-50 (Deep CNN)
+- HSV color histogram for color similarity.
+- GLCM and LBP for texture representation.
+- Edge-based descriptors (Canny and Hu Moments) for shape analysis.
+- Weighted similarity computation for hybrid retrieval.
+- Deep Learning Integration using ResNet-50 (Deep CNN).
 
 ## Dataset
 - WANG Dataset: [https://wang.ist.psu.edu/docs/related/](https://wang.ist.psu.edu/docs/related/)
