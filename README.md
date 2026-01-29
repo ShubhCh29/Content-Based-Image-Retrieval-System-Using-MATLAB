@@ -21,10 +21,7 @@ color (HSV histogram), texture (GLCM, LBP), and shape (edge-based) descriptors (
 - COREL-10K Dataset: [https://www.kaggle.com/datasets/michelwilson/corel10k](https://www.kaggle.com/datasets/michelwilson/corel10k)
 
 ## Authors
-Shubh Chaudhary, 
-Yuval Doshi,
-Gargi G. Maloo and
-Shashank Payal
+Shubh Chaudhary
 
 
 ---
